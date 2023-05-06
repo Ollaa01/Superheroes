@@ -1,0 +1,71 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/kaboo/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar;C:/Users/kaboo/.m2/repository/org/apache/commons/commons-csv/1.9.0/commons-csv-1.9.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'A.R.MarvelWeb 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'A.R.MarvelWeb 1.0-SNAPSHOT API'
+pl.polsl.Model
+pl.polsl.Servlets
+pl.posl.armarvelweb
+pl.posl.armarvelweb.resources
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Model/Model.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Model/OwnException.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Model/package-info.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Model/Superhero.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/Filename.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/package-info.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/SearchT.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/SearchU.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/ShowAll.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/ShowMost.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/ShowNU.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/polsl/Servlets/ShowSorted.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/posl/armarvelweb/JakartaRestConfiguration.java'
+'C:/Users/kaboo/OneDrive/Dokumenty/NetBeansProjects/pl.posl_A.R.MarvelWeb/src/main/java/pl/posl/armarvelweb/resources/JakartaEE8Resource.java'
+C:\Users\kaboo\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar = 1670765678275
+C:\Users\kaboo\.m2\repository\org\apache\commons\commons-csv\1.9.0\commons-csv-1.9.0.jar = 1667668256350
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\src\main\java = 1670856984492
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\allclasses-index.html = 1673179702959
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\allclasses.html = 1673179702970
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\allpackages-index.html = 1673179702962
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\constant-values.html = 1673179702761
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\deprecated-list.html = 1673179702967
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\element-list = 1673179702719
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\help-doc.html = 1673179702981
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\index-all.html = 1673179702952
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\index.html = 1673179702975
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\member-search-index.js = 1673179702948
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\member-search-index.zip = 1673179702949
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\overview-summary.html = 1673179702978
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\overview-tree.html = 1673179702858
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\package-search-index.js = 1673179702941
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\package-search-index.zip = 1673179702943
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\script.js = 1673179702988
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\search.js = 1673179702990
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\serialized-form.html = 1673179702775
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\stylesheet.css = 1673179702985
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\type-search-index.js = 1673179702946
+C:\Users\kaboo\OneDrive\Dokumenty\NetBeansProjects\pl.posl_A.R.MarvelWeb\target\site\apidocs\type-search-index.zip = 1673179702947

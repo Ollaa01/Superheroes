@@ -1,0 +1,12 @@
+pl\polsl\Model\Superhero.class
+pl\polsl\Servlets\ShowNU.class
+pl\polsl\Servlets\ShowAll.class
+pl\polsl\Servlets\ShowMost.class
+pl\polsl\Model\Model.class
+pl\posl\armarvelweb\resources\JakartaEE8Resource.class
+pl\polsl\Servlets\SearchU.class
+pl\polsl\Model\OwnException.class
+pl\polsl\Servlets\ShowSorted.class
+pl\posl\armarvelweb\JakartaRestConfiguration.class
+pl\polsl\Servlets\SearchT.class
+pl\polsl\Servlets\Filename.class
